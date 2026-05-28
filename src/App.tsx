@@ -1,7 +1,6 @@
-export default function App () {
- return (
- <>
- <h1>Appㅇㅇd이승우ㅇㅇ박지우ㅇㅇㅇ Component</h1>
- </>
- );
+import React from 'react';
+import ControlPanel from './components/ControlPanel';
+
+export default function App() {
+  return <ControlPanel />;
 }
