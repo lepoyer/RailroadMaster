@@ -1,7 +1,7 @@
 export default function App () {
  return (
  <>
- <h1>Appㅇㅇㅇㅇㅇㅇㅇ Component</h1>
+ <h1>Appㅇㅇㅇㅇ박지우ㅇㅇㅇ Component</h1>
  </>
  );
 }
